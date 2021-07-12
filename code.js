@@ -1,4 +1,4 @@
-function countPairsBruteForce(X, Y,Z, m, n){
+function satish(X, Y,Z, m, n){
 
     let ans = 0;
 
